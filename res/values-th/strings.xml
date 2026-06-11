@@ -1266,7 +1266,7 @@
     <string name="South_Africa">แอฟริกาใต้</string>
     <string name="SPLIT_">แยก:</string>
     <string name="WALLS">ผนัง</string>
-    <string name="COMP_BANNED">COMP BANNED</string>
+    <string name="COMP_BANNED">ผู้เล่นถูกแบนจากการแข่งขัน</string>
     <string name="FIND_GAMES">หาห้องเกม</string>
     <string name="PLAY_SOLO">เล่นคนเดียว</string>
     <string name="SET_EMOTE">ตั้งค่าอิโมท</string>
@@ -1276,7 +1276,7 @@
     <string name="BATTLE_ROYALE">แบทเทิลรอยัล</string>
     <string name="Battle_Royale">แบทเทิลรอยัล</string>
     <string name="The_winner_will_receive_x_plasma_">ผู้ชนะจะได้รับ %s พลาสมา!</string>
-    <string name="admin_commands">"
+    <string name="admin_commands">
 คำสั่ง:
 !kick [0–31] | (เตะผู้เล่น)
 !reset | (รีเซ็ตห้องเกม)
@@ -1287,7 +1287,7 @@
 !slowchat | (แชทช้าลง)
 !pausechat | (หยุดแชทชั่วคราว)
 !mute [id] | (ใบ้ผู้เล่น)
-!admin [id] | (ให้สิทธิ์แอดมินแก่ผู้เล่น)
+!admin [id] | (ใให้สิทธิ์แอดมินแก่ผู้เล่น)!admin 33033211 | (ให้สิทธิ์แอดมินแก่ผู้เล่น)
 !allow [id] | (อนุญาตผู้เล่นให้เข้าร่วมห้องเกม)
 !allow reset" | (รีเซ็ตผู้เล่นที่อนุญาตให้เข้าร่วมห้องเกม)
 </string>
